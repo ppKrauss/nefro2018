@@ -5,12 +5,16 @@ para a geração dos Anais do [XXIX Congresso Brasileiro de Nefrologia](http://w
 a serem publicados pela [Sociedade Brasileira de Nefrologia](https://sbn.org.br/) (SBN) na
 revista *"Jornal Brasileiro de Nefrologia"* ([JBN - ISSN 0101-2800](http://www.scielo.br/revistas/jbn/iaboutj.htm)).
 
-Repositório para troca de dados na equipe editorial e comprovação de entregas. Conterá:
+Repositório para troca de dados na equipe editorial e comprovação de entregas. Contém:
 
-* [Dados](data) com "matéria prima" para a realização do processamento dos resumos.
-* [Fontes (src)](src) de algoritmos utilizados na geração do produto final (PDF, XML, EPUB ou HTML). 
-* [Entregas](entregas) com material processado entregue. 
-* [Relatório](relatorio.md) com indicações mais detalhadas dos requisitos e testes.
+* [*olds*](olds), dados originais com "matéria prima" para a realização do processamento dos resumos.
+
+
+Conterá também:
+
+* *Fontes (src)* de algoritmos utilizados na geração do produto final (PDF, XML, EPUB ou HTML). 
+* *Entregas* com material processado entregue. 
+* *Relatório* com indicações mais detalhadas dos requisitos e testes.
 
 Maiores detalhes sobre gestão dos entregáveis e equipe descentralizada, ver [SBPqO-2015](https://github.com/ppKrauss/SBPqO-2015). 
 
