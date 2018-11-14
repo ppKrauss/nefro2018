@@ -16,6 +16,8 @@ Conterá também:
 * *Entregas* com material processado entregue. 
 * *Relatório* com indicações mais detalhadas dos requisitos e testes.
 
+Para reproduzir processamento dos dados ver [src/README.md](src/README.md).
+
 Maiores detalhes sobre gestão dos entregáveis e equipe descentralizada, ver [SBPqO-2015](https://github.com/ppKrauss/SBPqO-2015). 
 
 Licença:
