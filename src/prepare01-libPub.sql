@@ -1,6 +1,9 @@
 
 -- PUBLIC LIB
 
+CREATE EXTENSION IF NOT EXISTS unaccent;
+CREATE EXTENSION IF NOT EXISTS plpythonu;
+
 CREATE or replace FUNCTION xtag_a(
   p_title text,
   p_key text DEFAULT NULL,

@@ -12,12 +12,12 @@
 // CONFIGS:
   $SCH = 'resumos';
   $tableRename='original';
-  $modo='basico';  // basico|tudo|parcial
+  $modo='parcial';  // basico|tudo|parcial
 
   $original = [
      'NEFRO2018-relatTrabalhos2018-08-30'=>'Código,Título,Resumo,Temário,Modalidade aprovada,E-mail,Instituição,Cidade,Estado,País,Autores'
   ];
-  $original_conv = ['Código'=>'int'];
+  $original_conv = ['Código'=>'int PRIMARY KEY', 'Título'=>'text NOT NULL'];
 
 // // // // //
 $original_conv_flag = (count($original_conv)>0);
@@ -52,7 +52,7 @@ EOT;
 		$r = trim($r);
 		$p = mb_strrpos($r,' ');
 		if ($original_conv_flag && isset($original_conv[$r])) {
-			$types[] = $original_conv[$r];
+			$types[] = preg_replace('/\s.+$/','',trim($original_conv[$r]));
 			$fields1[] = pg_varname($r)." $original_conv[$r]";
 		} elseif ($original_conv_flag || $p===false) {
 			$types[] = 'text';
