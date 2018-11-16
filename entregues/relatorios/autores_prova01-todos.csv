@@ -1342,15 +1342,14 @@ jorvana stanislav brasil moreira,2,"{66764,66764}"
 jose abrao cardeal da costa,4,"{66465,66640,73691,74179}"
 jose agapito fonseca,1,{73205}
 jose alberto pedroso,2,"{72956,72987}"
-jose a. moura jr.,1,{72965}
+jose a. moura jr,1,{72965}
 jose a. moura-neto,3,"{66826,72965,72965}"
 jose andrade moura jr.,1,{66826}
 jose arlindo teixeira junior,2,"{73013,73700}"
 jose augusto araujo de montalvao,1,{74075}
 jose bruno de almeida,1,{66565}
 jose butori lopes de faria,1,{66362}
-jose carlos carraro-eduardo,1,{72889}
-jose carlos carraro-eduardo.,1,{73987}
+jose carlos carraro-eduardo,2,"{72889,73987}"
 jose carlos de lima muniz,3,"{73554,73554,73636}"
 jose carlos de lima muniz',1,{73636}
 jose carlos peracoli,1,{73316}
@@ -1548,7 +1547,7 @@ leandro lucca junior,1,{74179}
 leandro u. taniguchi,1,{72537}
 lecticia barbosa jorge,1,{72744}
 lecticia jorge,1,{73297}
-leda aparecida daud lotaif.,1,{74394}
+leda aparecida daud lotaif,1,{74394}
 leda marilia fonseca lucinda,4,"{66353,66451,66466,66793}"
 leia antonangelo,1,{72708}
 leidson duraes alkmim,1,{72768}
@@ -2045,8 +2044,7 @@ mauricio yukio ogawa,1,{66761}
 mauri felix de sousa,3,"{66651,66660,66814}"
 maurilo de nazare de lima leite jr,1,{66222}
 maurilo de nazare de lima leite junior,1,{72691}
-maurilo leite jr,3,"{72609,72992,73041}"
-maurilo leite jr.,2,"{72794,73074}"
+maurilo leite jr,5,"{72609,72794,72992,73041,73074}"
 maurilo leite junior,6,"{73056,73061,73117,73238,73346,74232}"
 mauro barros andre,2,"{72613,72614}"
 mauro oliveira santos,2,"{66664,66672}"
@@ -2499,7 +2497,7 @@ rosemary masterson,2,"{66590,66601}"
 rosemere tenorio de souza,1,{66654}
 rosileia pereira rodrigues alves,2,"{72932,73020}"
 rosilene m elias,2,"{73639,73808}"
-rosilene m. elias.,1,{73622}
+rosilene m. elias,1,{73622}
 rosilene motta elias,5,"{72975,73023,73030,73578,73666}"
 rosimere lima alves,1,{66483}
 rosineia da silva nascimento,1,{73265}

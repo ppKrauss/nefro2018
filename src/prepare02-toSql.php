@@ -13,9 +13,10 @@
   $SCH = 'resumos';
   $tableRename='original';
   $modo='parcial';  // basico|tudo|parcial
-
+  $baseDir = 'recebidos'; //'olds';
   $original = [
-     'NEFRO2018-relatTrabalhos2018-08-30'=>'Código,Título,Resumo,Temário,Modalidade aprovada,E-mail,Instituição,Cidade,Estado,País,Autores'
+    // 'NEFRO2018-relatTrabalhos2018-08-30'=>'Código,Título,Resumo,Temário,Modalidade aprovada,E-mail,Instituição,Cidade,Estado,País,Autores'
+    'relatTrabalhos2018-08-18'=>'Código,Título,Resumo,Temário,Modalidade aprovada,E-mail,Instituição,Cidade,Estado,País,Autores'
   ];
   $original_conv = ['Código'=>'int PRIMARY KEY', 'Título'=>'text NOT NULL'];
 
@@ -23,7 +24,7 @@
 $original_conv_flag = (count($original_conv)>0);
 $sql1 = $sql2 = $sql3 = '';
 foreach ($original as $k=>$fields) {
-	$f = "olds/$k.csv";
+	$f = "$baseDir/$k.csv";
 	$linha0 = fgets(fopen($f, 'r'));
 	// print "\n\n-- $f = $fields\n\t= $linha0";
 	$fields0 = [];
@@ -85,19 +86,21 @@ EOT;
 
 -- cp data/*.csv /tmp
 
-CREATE EXTENSION file_fdw;
+CREATE EXTENSION IF NOT EXISTS file_fdw;
+DROP SERVER IF EXISTS files CASCADE;
 CREATE SERVER files FOREIGN DATA WRAPPER file_fdw;
 
-<?php print "DROP SCHEMA IF EXISTS $SCH CASCADE; CREATE SCHEMA $SCH;" ?>
+<?php
+print "DROP SCHEMA IF EXISTS $SCH CASCADE; CREATE SCHEMA $SCH;";
+include 'src/prepare01-libPub.sql';
+print "$sql1\n\n------\n\n$sql2\n\n-----\n$sql3";
 
-<?php print "$sql1\n\n------\n\n$sql2\n\n-----\n$sql3" ?>
+if ($modo!='basico'):
+   include 'src/prepare03-baseLib.sql';
+   include 'src/make_reports.sql';
+endif;
 
-<?php if ($modo!='basico'):
-
- include 'src/prepare01-libPub.sql' ?>
-
-<?php endif;
-      if ($modo=='tudo'):
+if ($modo=='tudo'):
 ?>
 
 SELECT file_put_contents(
@@ -167,4 +170,3 @@ function pg_varname($s,$toAsc=true) {
 }
 
 ?>
-
