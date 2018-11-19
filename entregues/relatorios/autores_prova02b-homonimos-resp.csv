@@ -26,11 +26,11 @@ perc_semelhanca,usar,dif_12,nome1,nome2,correto
 94,?,FRANK GREGORY CAVAL??ANT?? DA SILVA,frank gregory cavalvanti da silva,frank gregory cavalcante da silva,google
 94,1,ISABELLA G? PIERRI,isabella g. pierri,isabella g pierri,
 94,1,PASQUAL BARRET?I,pasqual barretti,pasqual barreti,google
-94,1,ROBSON S? SERRALHA,robson s. serralha,robson s serralha,
+94,1,ROBSON S? SERRALHA,robson s. serralha,robson s serralha,nao
 94,1,ROSILENE M? ELIAS,rosilene m. elias,rosilene m elias,
 93,1,CRISTIANO RODRIGO??? ALVARENGA NASCIMENTO,cristiano rodrigo de alvarenga nascimento,cristiano rodrigo alvarenga nascimento,
 93,2,ITA?LO FERREIRA,italo ferreira,itallo ferreira,google
-93,2,ROSA M?A MOYSES,rosa ma moyses,rosa m a moyses,
+93,2,ROSA M?A MOYSES,rosa ma moyses,rosa m a moyses,nao
 92,1,ANDERSON LUIZ??? ALVARENGA NASCIMENTO,anderson luiz de alvarenga nascimento,anderson luiz alvarenga nascimento,
 92,2,CIRO BRUNO SI????EIRA COSTA,ciro bruno siqueira costa,ciro bruno silveira costa,google
 91,2,CLAR?I?SA SILVA RIBEIRO,clarrisa silva ribeiro,clarissa silva ribeiro,
@@ -59,11 +59,11 @@ perc_semelhanca,usar,dif_12,nome1,nome2,correto
 88,2,RAFAELA ARAUJO ???HOLANDA,rafaela araujo holanda,rafaela araujo de holanda,
 88,2,RENATA DE SOUZA ???SILVA,renata de souza silva,renata de souza da silva,
 88,2,ROBSON SALVIANO ???MATOS,robson salviano matos,robson salviano de matos,
-88,1,ROSA M? A? MOYSES,rosa m. a. moyses,rosa m a moyses,
+88,1,ROSA M? A? MOYSES,rosa m. a. moyses,rosa m a moyses,nao
 87,1,MARCELINO DE SOUZA DURAO J????R,marcelino de souza durao junior,marcelino de souza durao jr,
 87,1,PRECIL ??? NEVES,precil m neves,precil d. neves,google
 86,2,BRUNO CALDIN ???SILVA,bruno caldin silva,bruno caldin da silva,
-86,1,GERMANA ALVES ???BRITO,germana alves de brito,germana alves brito,
+86,1,GERMANA ALVES ???BRITO,germana alves de brito,germana alves brito,google
 86,0,RAQUEL ??S????A DA SILVA,raquel souza da silva,raquel costa da silva,
 85,1,ANA PAULA ???GUEIROS,ana paula s. gueiros,ana paula gueiros,
 85,1,CARLOS ALEXANDRE DE AMORIM GARCIA??????,carlos alexandre de amorim garcia filho,carlos alexandre de amorim garcia,
@@ -81,7 +81,7 @@ perc_semelhanca,usar,dif_12,nome1,nome2,correto
 82,2,BENEDITO J???? PEREIRA,benedito j pereira,benedito jorge pereira,
 82,2,FRANCISCO????? VERISSIMO VERON??SE,francisco verissimo veronese,francisco jose verissimo veronose,
 82,?,RODRIGO ??M?????? DA SILVA,rodrigo moura da silva,rodrigo gomes da silva,
-82,2,ROSA M??A? MOYSES,rosa ma moyses,rosa m. a. moyses,
+82,2,ROSA M??A? MOYSES,rosa ma moyses,rosa m. a. moyses,sim
 81,0,MARI?NA ????M?ES MOREIRA,marina simoes moreira,mariana gomes moreira,
 81,2,ROBSON S???? SERRALHA,robson s serralha,robson souza serralha,sim
 81,2,ROBSON S????? SERRALHA,robson s. serralha,robson souza serralha,sim
@@ -90,7 +90,7 @@ perc_semelhanca,usar,dif_12,nome1,nome2,correto
 74,2,MAURICI??????O TEIXEIRA,mauricio teixeira,mauricio brito teixeira,
 70,1,CLAUDIA ??????FELIPE,claudia rosso felipe,claudia felipe,
 69,1,ANDRE ?????BALBI,andre luis balbi,andre balbi,
-68,2,GERMANA ??????BRITO,germana brito,germana alves brito,
+68,2,GERMANA ??????BRITO,germana brito,germana alves brito,nao
 67,1,ANDREA ??????BAUER,andrea carla bauer,andrea bauer,
 67,2,GUSTAVO ???????DANTAS,gustavo dantas,gustavo coelho dantas,
 67,2,PAUL???????? FERNANDES,paulo fernandes,paula neves fernandes,
@@ -102,3 +102,4 @@ perc_semelhanca,usar,dif_12,nome1,nome2,correto
 62,1,TATIANA ????????ABRAO,tatiana pereira abrao,tatiana abrao,
 61,1,EMMANUEL ???????????BURDMANN,emmanuel de almeida burdmann,emmanuel burdmann,
 61,1,RENATO ???????EICK,renato george eick,renato eick,
+1,2,(cadeia de correcao),rosa m a moyses,rosa m. a. moyses,sim
