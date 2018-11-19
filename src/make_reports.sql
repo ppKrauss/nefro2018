@@ -30,7 +30,8 @@ COPY (
 ;  -- COPY 243
 
 COPY (
-  SELECT s[1] perc_semelhanca, '' usar, s[2] dif_12, s[3] nome1, s[4] nome2
+  SELECT s[1] perc_semelhanca, null usar,
+         s[2] dif_12, s[3] nome1, s[4] nome2, null correto
   FROM (
     SELECT unnest_2d_1d(suspeitos) s
     FROM (
@@ -38,7 +39,8 @@ COPY (
       FROM resumos.vw_autores_relat02_homonimos
     ) t0
     WHERE suspeitos IS NOT NULL
-    ORDER BY 1 DESC
+    -- ORDER BY 1 DESC
   ) t1
+  ORDER BY 1 DESC,3,4
 ) TO '/tmp/nefro/autores_prova02b-homonimos.csv' CSV HEADER
 ; -- 108

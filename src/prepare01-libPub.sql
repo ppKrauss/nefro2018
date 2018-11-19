@@ -165,7 +165,7 @@ CREATE or replace FUNCTION array_levenshtein_perc(
     ORDER BY length(item), item
   )
   SELECT array_agg(array[
-    to_char( round(100.0*(1-perc)), 'fm000' ),
+    round(100.0*(1-perc))::text, --old to_char( round(100.0*(1-perc)), 'fm000' ),
     strings_to_diff_formated( a_i, b_i, '?' ),
     a_i,
     b_i
