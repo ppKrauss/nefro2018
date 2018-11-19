@@ -112,3 +112,7 @@ modalidade_aprovada |  n
  Pôster Eletrônico   | 613
 
 Se uma das modalidades apresentar quantidade relativa muito baixa, pode ser indicativo de, por exemplo, falha ortográfica.
+
+## Material suplementar
+
+* [planilha com decisões sobre nomes de autor homonimos](https://docs.google.com/spreadsheets/d/1RigbnEx8gO0p9FtH6rT6xggiBwkC0fcQvWL45iYmBUE/)
