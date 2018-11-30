@@ -18,13 +18,35 @@ So for each 1 base32 we need seil(2.5*digits)
 ## Dump para verificacao de versoes
 
 ```sql
+CREATE or replace FUNCTION resumos.save_md_withformat(
+  p_titulo    text DEFAULT 'titulo',
+  p_autores   text DEFAULT 'autores',
+  p_resumo    text DEFAULT 'resumo',
+  p_pack_func text DEFAULT ''  -- string_for_xml
+) RETURNS table(msg text) AS $f$
+ DECLARE
+   qq text;
+ BEGIN
+   qq = $$
+    SELECT file_put_part(
+         (SELECT info->'modalidade'->>modalidade_aprovada FROM resumos.configs),
+         array_agg( %s(concat(E'\n## ',codigo,'. ',%s, E'\n\n', %s, E'\n\n', %s)) )
+       )
+    FROM (select *, row_number() OVER (PARTITION BY modalidade_aprovada) ct from resumos.original) t
+    GROUP BY  modalidade_aprovada
+   $$;
+   RETURN QUERY EXECUTE format(qq,p_pack_func,p_titulo,p_autores,p_resumo);
+ END
+$f$ LANGUAGE plpgsql IMMUTABLE STRICT;
+
+
 
 SELECT file_put_part(
-     (SELECT info->'modalidade'->>modalidade_aprovada FROM resumos.configs),  
-     array_agg( concat(E'\n## ',codigo,'. ',titulo, E'\n\n', autores, E'\n\n', resumo) )
+     (SELECT info->'modalidade'->>modalidade_aprovada FROM resumos.configs),
+     array_agg( string_for_xml(concat(E'\n## ',codigo,'. ',titulo, E'\n\n', autores, E'\n\n', resumo)) )
    )
 FROM (select *, row_number() OVER (PARTITION BY modalidade_aprovada) ct from resumos.original) t
-GrOUP BY  modalidade_aprovada
+GROUP BY  modalidade_aprovada
 ;
 ```
 
