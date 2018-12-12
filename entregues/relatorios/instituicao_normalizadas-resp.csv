@@ -1,467 +1,57 @@
-codigo,intituicao
-73055,Araraquara-SP / (consultório)
-73636,São Paulo / (consultório)
-73770,Campo Grande-MS / Associação Beneficente Santa Casa
-66356,Blumenau-SC / Associação Renal Vida
-72727,Blumenau-SC / Associação Renal Vida
-73743,Blumenau-SC / Associação Renal Vida
-73568,Beneficência Portuguesa de São Paulo (BP)
-73572,Beneficência Portuguesa de São Paulo (BP)
-73587,Beneficência Portuguesa de São Paulo (BP)
-73596,Beneficência Portuguesa de São Paulo (BP)
-66645,Bacabal-MA / BIORIM
-66423,Universidade do Estado do Pará (UEPA) / Campus XII
-66424,Universidade do Estado do Pará (UEPA) / Campus XII
-74124,Rio de Janeiro / CDR-Botafogo
-73988,Portugal / Centro Hospitalar Universitario do Algarve
-66687,Portugal / ESPINHO / Centro Hospitalar Vila Nova de Gaia
-71672,Centro Universitário das Faculdades Associadas (UNIFAE)
-71673,Centro Universitário das Faculdades Associadas (UNIFAE)
-66747,Centro Universitário do Rio Grande do Norte
-66778,Centro Universitário Planalto do Distrito Federal (UNIPLAN)
-66797,Centro Universitário Planalto do Distrito Federal (UNIPLAN)
-73767,Porto Velho-RO / Centro Universitário São Lucas
-66876,Ribeirão Preto-SP / Centro Universitário Serra dos Órgãos
-70660,Maceió / Centro Universitário Tiradentes (Unit)
-73261,Maceió / Centro Universitário Tiradentes (Unit)
-66648,Portugal / Vila Real / CHTMAD
-74250,Salvador-BA / CLINEFRO Sr. do Bonfim
-66598,Clínica de Diálise de Cascavel
-66654,Clínica de Diálise do Cabo
-66783,Clínica de Diálise do Cabo
-66529,Clinica de Doenças Renais de Brasília
-73442,Clínica de Doenças Renais de Brasília
-66558,Tubarão-SC / Clínica de Nefrologia Araranguá
-66568,Tubarão-SC / Clínica de Nefrologia Araranguá
-66603,Caicó-RN / Clínica do Rim
-66659,Natal-RN / Clínica do Rim
-66390,Clinica Nefrologica de Franca-SP
-66391,Clinica Nefrologica de Franca-SP
-66285,Fortaleza-CE / Clínica Pronefron Aldeota
-66286,Fortaleza-CE / Clínica Pronefron Aldeota
-73746,Fortaleza-CE / Clínica Pronefron Messejana
-74255,Fortaleza-CE / Clínica Pronefron Messejana
-72711,Boa Vista-RR / Clínica Renal de Roraima
-72713,Boa Vista-RR / Clínica Renal de Roraima
-66826,Salvador-BA / Clinica Senhor do Bonfim
-72965,Salvador-BA / Clinica Senhor do Bonfim
-73671,Diálise do Hospital Regional de Taubaté-SP
-73727,Diálise do Hospital Regional de Taubaté-SP
-66276,UFJF / Ebserh-Hospital Universitário
-73373,Jundiaí-SP / Nefrologia e Dialise Peritoneal / ENEFRO
-73901,Jundiaí-SP / Nefrologia e Dialise Peritoneal / ENEFRO
-66802,Escola Bahiana de Medicina e Saúde Pública
-66843,Escola Bahiana de Medicina e Saúde Pública
-71638,UNIFESP / Escola Paulista de Medicina (EPM)
-73490,UNIFESP / Escola Paulista de Medicina (EPM)
-73494,UNIFESP / Escola Paulista de Medicina (EPM)
-73882,UNIFESP / Escola Paulista de Medicina (EPM)
-73811,Águas Claras-DF / Escola Superior de Ciências da Saúde
-73700,Juiz de Fora-MG / FACID DEVRY
-66771,Universidade de Brasília (UnB) / Faculdade de Ceilândia
-73690,Unicamp / Faculdade de Ciências Médicas
-73285,PUC-SP / Campus Sorocaba / Faculdade de Ciências Médicas e da Saúde
-74379,Faculdade de Ciências Médicas e da Saúde de Juiz de Fora (SUPREMA)
-73297,Universidade de São Paulo (USP) / Faculdade de Medicina (FM)
-73525,Universidade de São Paulo (USP) / Faculdade de Medicina (FM)
-73666,Universidade de São Paulo (USP) / Faculdade de Medicina (FM)
-73708,Universidade de São Paulo (USP) / Faculdade de Medicina (FM)
-73686,Universidade de São Paulo (USP) / Faculdade de Medicina
-71601,UNESP-Botucatu) / Faculdade de Medicina da USP e Faculdade de Botucatu (FM-USP e FM
-71602,UNESP-Botucatu) / Faculdade de Medicina da USP e Faculdade de Botucatu (FM-USP e FM
-66466,Faculdade de Medicina de Barbacena-MG (FUNJOBE)
-74150,Faculdade de Medicina de Barbacena-MG (FUNJOBE)
-66516,UNESP / Faculdade de Medicina de Botucatu
-66520,UNESP / Faculdade de Medicina de Botucatu
-66522,UNESP / Faculdade de Medicina de Botucatu
-72582,UNESP / Faculdade de Medicina de Botucatu
-72708,UNESP / Faculdade de Medicina de Botucatu
-72955,UNESP / Faculdade de Medicina de Botucatu
-66488,Faculdade de Medicina de Campos
-66749,Faculdade de Medicina de Campos dos Goytacaze-RJ
-73388,Faculdade de Medicina de Campos dos Goytacaze-RJ
-72720,Faculdade de Medicina de Catanduva-SP
-66501,Faculdade de Medicina de Jundiaí-SP
-73449,USP / Faculdade de Medicina de Ribeirão Preto
-73453,USP / Faculdade de Medicina de Ribeirão Preto
-66402,Faculdade de Medicina de São José do Rio Preto (FACERES)
-66532,Faculdade de Medicina de São José do Rio Preto (FACERES)
-66510,Faculdade de Medicina do ABC
-66512,Faculdade de Medicina do ABC
-66353,Faculdade Governador Ozanam Coelho
-66793,Faculdade Governador Ozanam Coelho
-66457,Vitória-ES / Faculdade Multivix
-66620,Vitória-ES / Faculdade Multivix
-66763,Faculdade Pernambucana de Saúde
-72929,Hospital Eurico Dutra / Faculdade São Francisco de Barreiras
-66813,Faculdades Pequeno Príncipe
-72550,Faculdades Pequeno Príncipe
-74158,Faculdade de Medicina de São Jose do Rio Preto / FAMERP
-73024,Faculdade de Medicina de São José do Rio Preto / FAMERP
-73879,Faculdade de Medicina de São José do Rio Preto / FAMERP
-73908,Faculdade de Medicina de São José do Rio Preto / FAMERP
-74340,Faculdade de Medicina de São José do Rio Preto / FAMERP
-73964,Faculdade de Medicina de Taubaté / FMT
-74066,Faculdade de Medicina de Taubaté / FMT
-74122,Faculdade de Medicina de Taubaté / FMT
-66328,Fresenius Medical Care
-72897,Fresenius Medical Care
-73133,Fresenius Medical Care
-73134,Fresenius Medical Care
-73462,Fundação Pro Renal
-74055,Fundação Pro Renal
-73670,Fundação Pró Renal Brasil
-73718,Fundação Pró Renal Brasil
-73475,FUNDAÇÃO PRÓ RIM
-73481,FUNDAÇÃO PRÓ RIM
-73474,Joinville-SC / Fundação Pró-Rim
-73478,Joinville-SC / Fundação Pró-Rim
-73744,Joinville-SC / Fundação Pró-Rim
-72699,Fundação São Francisco Xavier
-72701,Fundação São Francisco Xavier
-73665,Fundação Universidade Federal do Vale do São Francisco (UNIVASF)
-74007,Fundação Universidade Federal do Vale do São Francisco (UNIVASF)
-73030,USP / HC-FM
-73062,USP / HC-FM
-73622,USP / HC-FM
-66536,UNESP de Botucatu / HC-FMB
-66640,USP / HC-FMRP
-73691,USP / HC-FMRP
-73962,HC-UFPE
-74201,HC-UFPE
-73536,São Paulo-SP / Hospital Accamargo Cancer Center
-73626,São Paulo-SP / Hospital Accamargo Cancer Center
-66664,Salvador-BA / Hospital Ana Nery
-66672,Salvador-BA / Hospital Ana Nery
-66889,Salvador-BA / Hospital Ana Nery
-66534,Hospital Beneficência Portuguesa (BP) de São Paulo
-66547,Hospital Beneficência Portuguesa (BP) de São Paulo
-66570,Hospital Beneficência Portuguesa (BP) de São Paulo
-66611,Hospital Beneficência Portuguesa (BP) de São Paulo
-66739,Hospital Beneficência Portuguesa (BP) de São Paulo
-66745,Hospital Beneficência Portuguesa (BP) de São Paulo
-73548,Hospital Beneficência Portuguesa (BP) de São Paulo
-73554,Hospital Beneficência Portuguesa (BP) de São Paulo
-73689,Hospital Beneficência Portuguesa (BP) de São Paulo
-66376,Rio de Janeiro-RJ / Hospital Central Aristarcho Pessoa
-73212,UFPE / Hospital das Clínicas
-73109,Vitória-ES / Hospital das Clinicas
-66357,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-72537,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-72540,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-72744,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-72755,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-73079,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-73292,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-73639,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-73877,USP / Campus São Paulo / Hospital das Clínicas da Faculdade de Medicina (HC-FM)
-66550,Hospital das Clínicas da UFMG
-66724,Hospital das Clínicas da UFMG
-66651,Hospital das Clínicas da Universidade Federal de Goiás
-66660,Hospital das Clínicas da Universidade Federal de Goiás
-72358,Hospital das Clinicas de Botucatu
-73960,Hospital das Clinicas de Botucatu
-66465,Hospital das Clinicas de Ribeirão Preto
-66467,Hospital das Clinicas de Ribeirão Preto
-71926,Hospital das Clínicas Universidade Federal de Goiás
-72736,Hospital das Clínicas Universidade Federal de Goiás
-66871,Hospital de Base de São José do Rio Preto
-73070,Hospital de Base do Distrito Federal
-73204,Hospital de Clínicas de Porto Alegre
-73262,Hospital de Clínicas de Porto Alegre
-73717,Hospital de Clínicas de Porto Alegre
-74242,Hospital de Clínicas de Porto Alegre
-72630,Universidade Federal do Rio Grande do Sul / Hospital de Clínicas de Porto Alegre
-72733,Universidade Federal do Rio Grande do Sul / Hospital de Clínicas de Porto Alegre
-73071,Hospital de Força Aérea do Galeão
-73205,Portugal / Lisboa / CHLN / Hospital de Santa Maria
-73207,Portugal / Lisboa / CHLN / Hospital de Santa Maria
-73761,Belo Horizonte-MG / Hospital Deraldo Guimarães
-74171,Belo Horizonte-MG / Hospital Deraldo Guimarães
-74394,Instituto Dante Pazzanese de Cardiologia / Hospital do Coracao
-72766,Portugal / Hospital do Espírito Santo de Évora E.P.E.
-68572,Unifesp / Escola Paulista de Medicina / HOSPITAL DO RIM
-72899,Unifesp / Escola Paulista de Medicina / HOSPITAL DO RIM
-73304,Hospital do Servidor Público Estadual de São Paulo
-72956,Hospital Ernesto Dornelles
-72987,Hospital Ernesto Dornelles
-73739,Hospital Evangélico de Belo Horizonte
-73765,Hospital Evangélico de Belo Horizonte
-66513,Hospital Federal de Bonsucesso
-66562,Hospital Federal de Bonsucesso
-66577,Hospital Federal de Bonsucesso
-66592,Hospital Federal de Bonsucesso
-66669,Hospital Federal de Bonsucesso
-66738,Hospital Federal de Bonsucesso
-73041,Hospital Federal de Bonsucesso
-74281,Hospital Federal de Bonsucesso
-74075,Hospital Geral de Bonsucesso
-73724,Hospital Geral Roberto Santos
-71781,Hospital Giovanni Battista
-73073,Hospital Israelita Albert Einstein
-73080,Hospital Israelita Albert Einstein
-73520,Hospital Israelita Albert Einstein
-73523,Hospital Israelita Albert Einstein
-73740,Hospital Israelita Albert Einstein
-73641,Hospital Márcio Cunha
-73699,Hospital Márcio Cunha
+codigo,instituicao
+66206,Secretaria de Estado de Saúde do Distrito Federal
+66222,Universidade Federal do Rio de Janeiro
+66223,Universidade Federal do Rio de Janeiro
+66247,Universidade Federal do Rio de Janeiro
+66251,Rien Nefrologia Ltda.
+66276,Universidade Federal de Juiz de Fora / Hospital Universitário / Ebserh
+66285,Clínica Pronefron Aldeota
+66286,Clínica Pronefron Aldeota
+66303,Universidade Federal do Rio de Janeiro / Hospital Universitário Clementino Fraga Filho
+66316,Real Hospital Português de Beneficência em Pernambuco
 66317,Hospital Moinhos de Vento
 66318,Hospital Moinhos de Vento
-72996,Hospital Moinhos de Vento
-73423,Hospital Moinhos de Vento
-66579,Hospital Novo Atibaia
-66585,Hospital Novo Atibaia
-73505,Hospital Ophir Loyola
-73787,Hospital Pequeno Príncipe
+66326,Universidade Estácio de Sá
+66328,Fresenius Medical Care
+66337,Universidade Estácio de Sá
+66338,Universidade Estácio de Sá
+66339,Pontifícia Universidade Católica do Rio Grande do Sul / Hospital São Lucas
+66350,Universidade do Estado do Rio de Janeiro
 66351,Hospital Português da Bahia
 66352,Hospital Português da Bahia
+66353,Faculdade Governador Ozanam Coelho
+66354,Hospital Universitario Evangelico do Paraná
+66356,Associação Renal Vida
+66357,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+66362,Pontifícia Universidade Católica de Campinas
+66376,Hospital Central Aristarcho Pessoa
+66377,Pontifícia Universidade Católica do Rio Grande do Sul
+66379,SES DF
+66380,Hospital Universitário Getúlio Vargas
 66385,Hospital Português da Bahia
 66386,Hospital Português da Bahia
-72947,Hospital Regional da Asa Norte (HRAN)
-72952,Hospital Regional da Asa Norte (HRAN)
-76560,Hospital Santa Casa de Belo Horizonte
-76566,Hospital Santa Casa de Belo Horizonte
-66667,Hospital Santa Marcelina
-66804,Hospital Santa Marcelina
-66808,Hospital Santa Marcelina
-66835,Hospital Santa Marcelina
-73393,Hospital Santa Marcelina
-73906,Hospital Santa Marcelina
-74043,Hospital Santa Marcelina
-74368,Hospital Santa Marcelina
-74006,Hospital Santa Rita
-74050,Hospital Santa Rita
-73775,Divinopolis-MG / Hospital São João de Deus
-73782,Divinopolis-MG / Hospital São João de Deus
-66339,PUC-RS / Hospital São Lucas
-66791,PUC-RS / Hospital São Lucas
-66702,Hospital São Rafael
-74188,Hospital São Vicente
-72975,Hospital Sírio Libanês
-73652,Hospital Sírio Libanês
-66470,HOSPITAL SOCOR
-66389,Hospital Universitário (HU) da UFJF (Ebserh)
-73441,Hospital Universitário Antonio Pedro
-73871,UFF / Hospital Universitário Antônio Pedro
-73544,Hospital Universitário Ciências Médicas
-73805,Hospital Universitário Ciências Médicas
-73903,Hospital Universitario Ciências Medicas de Minas Gerais
-73926,Hospital Universitario Ciências Medicas de Minas Gerais
-72675,UFRJ / Hospital Universitário Clementino Fraga Filho
-66303,UFRJ / Hospital Universitário Clementino Fraga Filho
-73238,UFRJ / Hospital Universitário Clementino Fraga Filho
-73095,Hospital Universitario da UFMA
-73108,Hospital Universitario da UFMA
-66397,Hospital Universitario da Universidade Federal do Maranhão
-66398,Hospital Universitario da Universidade Federal do Maranhão
-66563,Hospital Universitário da Universidade Federal do Maranhão
-66575,Hospital Universitário da Universidade Federal do Maranhão
-66477,Hospital Universitario de Brasilia
-66561,Universidade Federal do Maranhão (UFMA) / Hospital Universitário (HU)
-66759,Universidade Federal do Maranhão (UFMA) / Hospital Universitário (HU)
-68585,Universidade Federal do Maranhão (UFMA) / Hospital Universitário (HU)
-66354,Hospital Universitario Evangelico do Parana
-73168,Hospital Universitario Evangelico do Parana
-66380,Hospital Universitário Getúlio Vargas
-73513,Hospital Universitario Pedro Ernesto
-66535,Hospital Universitário Pedro Ernesto
-66695,Hospital Universitário Pedro Ernesto
-73147,Hospital Universitário Pedro Ernesto
-73336,Hospital Universitário Pedro Ernesto
-72823,Universidade Federal do Maranhão (UFMA) / Hospital Universitário Presidente Dutra
-66539,Universidade Federal do Maranhão (UFMA) / Hospital Universitário Presidente Dutra
-66540,Universidade Federal do Maranhão (UFMA) / Hospital Universitário Presidente Dutra
-73459,Hospital Universitário Professor Edigard Santos
-66761,Hospital Universitário Walter Cantideo
-66509,Hospital Vera Cruz
-73909,Hospital Vera Cruz
-72949,HOSPITAL VIDA
-73624,HSPM
-74069,Hospital das Clinicas Vitória-ES / HUCAM
-74088,Hospital das Clinicas Vitória-ES / HUCAM
-73056,Universidade Federal do Rio de Janeiro (UFRJ) / HUCFF
-73061,Universidade Federal do Rio de Janeiro (UFRJ) / HUCFF
-66617,HUPE
-66622,HUPE
-73404,HUUFMA
-72617,Instituto Bebedouro de Nefrologia / IBENE
-72620,Instituto Bebedouro de Nefrologia / IBENE
-66388,Idealcor Fisioterapia
-72639,IMIP
-72916,Instituto de Medicina Integral Professor Fernando Figueira / IMIP
-66709,Instituto de Nefrologia e Diálise / INED
-66848,Instituto de Nefrologia e Diálise / INED
-73093,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-73883,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-74265,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-73052,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-73326,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-73672,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-74160,FM-USP / Hospital das Clinicas (HC) / Instituto da Criança
-66701,Instituto de Biofísica Carlos Chagas Filho
-72742,Instituto de Medicina Integral Professor Fernando Figueira
-72822,Instituto de Medicina Integral Professor Fernando Figueira
-73050,Instituto do Rim de Londrina
-73963,Instituto do Rim de Londrina
-73683,Instituto do Rim do Paraná
-73565,Fiocruz-BA / Instituto Gonçalo Moniz
-73661,Fiocruz-BA / Instituto Gonçalo Moniz
-66456,Irmandade Santa Casa de Misericordia de São Paulo
-73146,Monte Tabor-Hospital São Rafael
-73551,MULTIRIM
-66556,Nefrologia USP Ribeirão Preto-SP
-73737,Nefrologia USP Ribeirão Preto-SP
-66362,Pontifícia Universidade Católica de Campinas
-66439,Pontifícia Universidade Católica do Paraná
-66652,Pontifícia Universidade Católica do Paraná
-73173,Pontifícia Universidade Católica do Paraná
-72977,PREVENT SENIOR
-72978,PREVENT SENIOR
-73834,Pró-Rim
-73954,JOINVILLE / PRÓ-RIM
-72768,Belo Horizonte / Profissional Autônomo
-66548,Fortaleza-CE / Pronefron Messsejana
-66551,Fortaleza-CE / Pronefron Messsejana
-66636,Fortaleza-CE / PRONTORIM LTDA
-66650,Fortaleza-CE / PRONTORIM LTDA
-73564,PUC-SP
-66698,PUCPR
-66377,PUCRS
-66725,PUCRS
-66316,Real Hospital Português
-66827,Real Hospital Português de Beneficência Em Pernambuco
-66837,Real Hospital Português de Beneficência Em Pernambuco
-72621,RENAL CARE
-73265,Rio de Janeiro-RJ / RENAL VIDA e VAZ LOBO
-72830,Renalrio Serviços de Medicina Clínica
-72932,Rio de Janeiro-RJ / RenalVida Assistência Integral ao Renal Ltda.
-72933,Rio de Janeiro-RJ / RenalVida Assistência Integral ao Renal Ltda.
-73020,Rio de Janeiro-RJ / RenalVida Assistência Integral ao Renal Ltda.
-73254,Rio de Janeiro-RJ / RenalVida Assistência Integral ao Renal Ltda.
-66251,Rio de Janeiro / Rien Nefrologia Ltda.
-66756,Rio de Janeiro / Rien Nefrologia Ltda.
-66774,Rio de Janeiro / Rien Nefrologia Ltda.
-73419,São Paulo / SAMARIM
-73422,São Paulo / SAMARIM
-72667,Belo Horizonte / Santa Casa
-73913,Belo Horizonte / Santa Casa
-74140,Belo Horizonte / Santa Casa
-66723,Belo Horizonte / Santa Casa
-66741,Belo Horizonte / Santa Casa
-66834,Belo Horizonte / Santa Casa
-72902,Belo Horizonte / Santa Casa
-73018,Belo Horizonte / Santa Casa
-66869,Maringá-PR / Santa Casa
-73220,Santa Casa de Misericórdia de Juiz de Fora
-73224,Santa Casa de Misericórdia de Juiz de Fora
-73317,Santa Casa de Misericórdia de Juiz de Fora
-72702,Santa Casa de Misericórdia de Porto Alegre
-66829,Santa Casa de Misericórdia de São Paulo
-71964,Santa Casa de Misericórdia de São Paulo
-66850,Santa Casa de Ribeirao Preto
-73590,Secretaria de Estado da Saúde do Amapa
-73677,Secretaria de Estado da Saúde do Amapa
-66206,Secretaria de Estado de Saúde do Distrito Federal
-66483,Ambulatorial e Domiciliar Ltda / Hospitalar / Serviços de Fisioterapia e Nutrição / SEFHAM
-72930,Portugal / Serviço de Nefrologia do Centro Hospitalar Universitario do Algarve
-73092,HBDF / DF / SES
-66379,SES DF
-66609,SES DF
-72836,Sos Renal Services
-72891,Sos Renal Services
-73136,UERJ
-73139,UERJ
-72907,UFCA
-66569,UFES
-66580,UFES
-73022,UFPE
-72626,UFPR
-72734,UFRGS
-72735,UFRGS
-66481,UFRJ
-66486,UFRJ
-72609,UFRJ
-72794,UFRJ
-72992,UFRJ
-73346,UFRJ
-66553,UFSC
-66806,Campos Divinopolis / UFSJ
-66819,Campos Divinopolis / UFSJ
-66326,UNESA
-66870,UNESP
-73316,UNESP
-73919,UNESP
-73979,UNESP
-74082,UNESP
-73313,UNICAMP
-66519,UNICESUMAR
-66676,UNICHRISTUS
-66704,UNICHRISTUS
-66729,UNICHRISTUS
-66857,UNICHRISTUS
-73272,UNICHRISTUS
-73290,UNICHRISTUS
-73695,UNIFESO
-66492,UNIFESP
-66537,UNIFESP
-66541,UNIFESP
-66578,UNIFESP
-67176,UNIFESP
-73053,UNIFESP
-73036,EPM / UNIFESP
-73038,EPM / UNIFESP
-73733,Universidade Federal de São Paulo / UNIFESP
-66482,UNIFOA
-66484,UNIFOA
-73045,UNIGRANRIO
-66711,UNIRIO
-66726,UNIRIO
-66554,UNISUL
-66564,UNISUL
-73117,Universidad Federar de Rio de Janeiro
-66847,Universidade Anhembi Morumbi
-73263,Universidade Católica de Brasília
-73685,Universidade Católica de Brasília
-73792,Universidade Católica de Brasília
-73016,Universidade Católica de Brasília (UCB)
-73662,Universidade Católica de Brasília (UCB)
-74080,Universidade Católica de Brasília (UCB)
-73728,Universidade Cruzeiro do Sul (Unicsul)
-72988,Universidade de Brasília (UnB)
-66699,Hospital Universitário de Brasília / Universidade de Brasília (UnB)
-66767,Hospital Universitário de Brasília / Universidade de Brasília (UnB)
 66387,Universidade de Fortaleza
+66388,Idealcor Fisioterapia
+66389,Universidade Federal de Juiz de Fora / Hospital Universitário / Ebserh
+66390,Clinica Nefrologica de Franca
+66391,Clinica Nefrologica de Franca
 66396,Universidade de Fortaleza
+66397,Universidade Federal do Maranhão / Hospital Universitario
+66398,Universidade Federal do Maranhão / Hospital Universitario
 66399,Universidade de Fortaleza
 66401,Universidade de Fortaleza
-66442,Universidade de Fortaleza
-66444,Universidade de Fortaleza
-66448,Universidade de Fortaleza
-66473,Universidade de Fortaleza
-66475,Universidade de Fortaleza
-66476,Universidade de Fortaleza
-66487,Universidade de Fortaleza
-66511,Universidade de Fortaleza
-66665,Universidade de Fortaleza
-66817,Universidade de Fortaleza
-66822,Universidade de Fortaleza
-73421,Universidade de Fortaleza
-73730,Universidade de Fortaleza
-66571,Universidade de Fortaleza (Unifor)
-66604,Universidade de Fortaleza (Unifor)
-66485,UNIFOR / Universidade de Fortaleza
-66489,UNIFOR / Universidade de Fortaleza
-73807,UNIFOR / Universidade de Fortaleza
-74013,Universidade de Sao Paulo
-73578,Universidade de São Paulo
-73532,USP / Universidade de São Paulo
-73543,USP / Universidade de São Paulo
-66506,Universidade de Uberaba
-66507,Universidade de Uberaba
-66776,Universidade de Uberaba
-66428,Universidade de Uberaba (Uniube)
-73687,Universidade de Vassouras
-73705,Universidade de Vassouras
+66402,Faculdade de Medicina de São José do Rio Preto
+66404,Universidade do Estado do Rio de Janeiro
+66405,Universidade do Estado do Rio de Janeiro
+66408,Universidade Federal de Goiás
+66413,Universidade Federal de Juiz de Fora
+66421,Universidade Federal do Rio de Janeiro
+66423,Universidade do Estado do Pará / Campus XII
+66424,Universidade do Estado do Pará / Campus XII
+66425,Universidade Federal do Ceará
+66426,Universidade do Estado do Pará
+66428,Universidade de Uberaba
+66429,Universidade do Estado do Pará
 66431,Universidade do Estado do Pará
 66432,Universidade do Estado do Pará
 66433,Universidade do Estado do Pará
@@ -469,273 +59,683 @@ codigo,intituicao
 66435,Universidade do Estado do Pará
 66436,Universidade do Estado do Pará
 66438,Universidade do Estado do Pará
-66582,Universidade do Estado do Pará
-66634,Universidade do Estado do Pará
-66812,Universidade do Estado do Pará
-71702,Universidade do Estado do Pará
-72674,Universidade do Estado do Pará
-72676,Universidade do Estado do Pará
-72681,Universidade do Estado do Pará
-66426,Universidade do Estado do Pará (UEPA)
-66429,Universidade do Estado do Pará- Campus XII
-66350,Universidade do Estado do Rio de Janeiro
-66404,Universidade do Estado do Rio de Janeiro
-66405,Universidade do Estado do Rio de Janeiro
-66480,Universidade do Estado do Rio de Janeiro
-66607,Universidade do Estado do Rio de Janeiro
-70094,Universidade do Estado do Rio de Janeiro
-72539,Universidade do Estado do Rio de Janeiro
-73172,Universidade do Estado do Rio de Janeiro
-66521,Universidade do Sul de Santa Catarina
-73591,Universidade do Sul de Santa Catarina
-66337,Universidade Estácio de Sá
-66338,Universidade Estácio de Sá
-73801,Universidade Estadual de Campinas
-73828,Universidade Estadual de Campinas
-73856,Universidade Estadual de Campinas
-71598,Universidade Estadual de Ciências da Saúde de Alagoas
-74110,Universidade Estadual de Ciências da Saúde de Alagoas
-74142,PUC LONDRINA / Universidade Estadual de Londrina
-66888,Universidade Estadual do Ceara
-73526,Universidade Estadual do Ceara
-66886,Universidade Estadual do Ceará
-66893,Universidade Estadual do Ceará
-72980,Universidade Estadual do Ceará
-73011,Universidade Estadual do Ceará
-73606,Universidade Estadual do Ceará
-66890,Universidade Estadual do Ceará (Uece)
-66892,Universidade Estadual do Ceará (Uece)
-73546,Universidade Estadual do Maranhao
-66810,Universidade Estadual do Pará
-72881,Universidade Estadual do Pará
-73897,Universidade Estadual do Pará
-66680,Universidade Estadual do Rio de Janeiro
-66688,Universidade Estadual do Rio de Janeiro
-73085,Universidade Estadual Paulista Julio de Mesquita Filho
-66526,Universidade Estadual Paulista Júlio de Mesquita Filho
-66560,Universidade Federal da Bahia
-72976,Universidade Federal da Bahia
-73809,Universidade Federal da Bahia
-72969,Campus Anísio Teixeira / Universidade Federal da Bahia
-72979,Instituto Multidisciplinar Em Saúde / Universidade Federal da Bahia
-66877,Universidade Federal da Paraíba
-66896,Universidade Federal da Paraíba
-66478,Universidade Federal da Rio de Janeiro
-66733,Universidade Federal de Alagoas
-73937,Universidade Federal de Alagoas
-74014,Universidade Federal de Alagoas
-74030,Universidade Federal de Alagoas
-74098,Universidade Federal de Alagoas
-74179,Universidade Federal de Alagoas
-66408,Universidade Federal de Goiás
-66613,Universidade Federal de Goiás
-66628,Universidade Federal de Goiás
-66773,Universidade Federal de Goiás
-66814,Universidade Federal de Goiás
-66413,Universidade Federal de Juiz de Fora
-66451,Universidade Federal de Juiz de Fora
-66455,Universidade Federal de Juiz de Fora
-66663,Universidade Federal de Juiz de Fora
-66675,Universidade Federal de Juiz de Fora
-66708,Universidade Federal de Juiz de Fora
-66715,Universidade Federal de Juiz de Fora
-66816,Universidade Federal de Juiz de Fora
-66836,Universidade Federal de Juiz de Fora
-66858,Universidade Federal de Juiz de Fora
-72892,Universidade Federal de Juiz de Fora
-73013,Universidade Federal de Juiz de Fora
-73033,Universidade Federal de Juiz de Fora
-73035,Universidade Federal de Juiz de Fora
-74016,Universidade Federal de Juiz de Fora
-74049,Universidade Federal de Juiz de Fora
-66587,UFJF / Universidade Federal de Juiz de Fora
-66596,UFJF / Universidade Federal de Juiz de Fora
-66678,Universidade Federal de Mato Grosso
-66786,UFMT / Universidade Federal de Mato Grosso
-74388,Universidade Federal de Pelotas
-74389,Universidade Federal de Pelotas
-66824,Universidade Federal de Pernambuco
-72661,Universidade Federal de Roraima
-72662,Universidade Federal de Roraima
-66542,Universidade Federal de Santa Catarina
-66545,Universidade Federal de Santa Catarina
-73122,Universidade Federal de Santa Catarina
-66646,Universidade Federal de São João Del Rei
-66673,Universidade Federal de São João Del Rei
-66697,Campus Centro Oeste / Universidade Federal de São João Del Rei
-66549,Universidade Federal de São Paulo
-66731,Universidade Federal de São Paulo
-66792,Universidade Federal de São Paulo
-68817,Universidade Federal de São Paulo
-72678,Universidade Federal de São Paulo
-72697,Universidade Federal de São Paulo
-72698,Universidade Federal de São Paulo
-72726,Universidade Federal de São Paulo
-72780,Universidade Federal de São Paulo
-72941,Universidade Federal de São Paulo
-73178,Universidade Federal de São Paulo
-73431,Universidade Federal de São Paulo
-73558,Universidade Federal de São Paulo
-73675,Universidade Federal de São Paulo
-73749,Universidade Federal de São Paulo
-73844,Universidade Federal de São Paulo
-74245,Universidade Federal de São Paulo
-66474,. Disciplina de Nefrologia / Escola Paulista de Medicina / Universidade Federal de São Paulo
-72921,. Disciplina de Nefrologia / Escola Paulista de Medicina / Universidade Federal de São Paulo
-72966,Universidade Federal de Sergipe
-73644,Universidade Federal de Sergipe
-74213,Universidade Federal de Sergipe
-74356,Universidade Federal de Sergipe
-74360,Universidade Federal de Sergipe
-74189,Universidade Federal de Sergipe (Ufs)
-74320,Universidade Federal de Sergipe (Ufs)
-72028,Universidade Federal de Uberlândia
-72029,Universidade Federal de Uberlândia
-73167,Universidade Federal de Viçosa
-66500,Universidade Federal do Ceara
+66439,Pontifícia Universidade Católica do Paraná
 66440,Universidade Federal do Ceará
 66441,Universidade Federal do Ceará
+66442,Universidade de Fortaleza
+66444,Universidade de Fortaleza
+66445,Universidade Federal do Paraná
+66448,Universidade de Fortaleza
+66451,Universidade Federal de Juiz de Fora
+66455,Universidade Federal de Juiz de Fora
+66456,Irmandade Santa Casa de Misericordia de São Paulo
+66457,Faculdade Multivix
+66465,Hospital das Clinicas de Ribeirão Preto
+66466,Faculdade de Medicina de Barbacena
+66467,Hospital das Clinicas de Ribeirão Preto
+66470,HOSPITAL SOCOR
+66473,Universidade de Fortaleza
+66474,Universidade Federal de São Paulo / Escola Paulista de Medicina / Disciplina de Nefrologia
+66475,Universidade de Fortaleza
+66476,Universidade de Fortaleza
+66477,Hospital Universitario de Brasília
+66478,Universidade Federal da Rio de Janeiro
+66480,Universidade do Estado do Rio de Janeiro
+66481,Universidade Federal do Rio de Janeiro
+66482,Centro Universitário de Volta Redonda
+66483,"SEFHAM - Serviços de Fisioterapia e Nutrição, Hospitalar, Ambulatorial e Domiciliar Ltda."
+66484,Centro Universitário de Volta Redonda
+66485,Universidade de Fortaleza
+66486,Universidade Federal do Rio de Janeiro
+66487,Universidade de Fortaleza
+66488,Faculdade de Medicina de Campos
+66489,Universidade de Fortaleza
+66491,Universidade Federal do Rio de Janeiro
+66492,Universidade Federal de São Paulo
 66495,Universidade Federal do Ceará
+66500,Universidade Federal do Ceará
+66501,Faculdade de Medicina de Jundiaí-SP
+66506,Universidade de Uberaba
+66507,Universidade de Uberaba
+66509,Hospital Vera Cruz
+66510,Faculdade de Medicina do ABC
+66511,Universidade de Fortaleza
+66512,Faculdade de Medicina do ABC
+66513,Hospital Federal de Bonsucesso
+66516,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu
+66519,UNICESUMAR
+66520,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu
+66521,Universidade do Sul de Santa Catarina
+66522,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu
+66526,Universidade Estadual Paulista Júlio de Mesquita Filho
+66529,Clinica de Doenças Renais de Brasília
+66532,Faculdade de Medicina de São José do Rio Preto
+66533,Universidade Federal do Rio de Janeiro
+66534,Hospital Beneficência Portuguesa de São Paulo
+66535,Hospital Universitário Pedro Ernesto
+66536,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu / Hospital das Clínicas
+66537,Universidade Federal de São Paulo
+66539,Universidade Federal do Maranhão / Hospital Universitario
+66540,Universidade Federal do Maranhão / Hospital Universitario
+66541,Universidade Federal de São Paulo
+66542,Universidade Federal de Santa Catarina
 66544,Universidade Federal do Ceará
+66545,Universidade Federal de Santa Catarina
 66546,Universidade Federal do Ceará
+66547,Hospital Beneficência Portuguesa de São Paulo
+66548,Pronefron Messsejana
+66549,Universidade Federal de São Paulo
+66550,Universidade Federal de Minas Gerais / Hospital das Clínicas
+66551,Pronefron Messsejana
+66553,Universidade Federal de Santa Catarina
+66554,UNISUL
+66556,Universidade de São Paulo
+66558,Clínica de Nefrologia Araranguá
+66559,Universidade Federal do Paraná
+66560,Universidade Federal da Bahia
+66561,Universidade Federal do Maranhão / Hospital Universitario
+66562,Hospital Federal de Bonsucesso
+66563,Universidade Federal do Maranhão / Hospital Universitario
+66564,UNISUL
+66565,Universidade Federal do Rio Grande do Norte
+66566,Universidade Federal do Rio Grande do Norte
+66568,Clínica de Nefrologia Araranguá
+66569,Universidade Federal do Espírito Santo
+66570,Hospital Beneficência Portuguesa de São Paulo
+66571,Universidade de Fortaleza
 66573,Universidade Federal do Ceará
 66574,Universidade Federal do Ceará
+66575,Universidade Federal do Maranhão / Hospital Universitario
+66576,Universidade Federal do Paraná
+66577,Hospital Federal de Bonsucesso
+66578,Universidade Federal de São Paulo
+66579,Hospital Novo Atibaia
+66580,Universidade Federal do Espírito Santo
+66582,Universidade do Estado do Pará
+66585,Hospital Novo Atibaia
 66586,Universidade Federal do Ceará
+66587,Universidade Federal de Juiz de Fora
+66590,Universidade Federal do Rio Grande do Sul
+66592,Hospital Federal de Bonsucesso
+66595,Universidade Federal do Rio de Janeiro
+66596,Universidade Federal de Juiz de Fora
+66597,Universidade Federal do Espírito Santo
+66598,Clínica de Diálise de Cascavel
 66600,Universidade Federal do Ceará
+66601,Universidade Federal do Rio Grande do Sul
+66603,Clínica do Rim
+66604,Universidade de Fortaleza
+66607,Universidade do Estado do Rio de Janeiro
+66608,Universidade Federal do Espírito Santo
+66609,SES DF
+66611,Hospital Beneficência Portuguesa de São Paulo
+66613,Universidade Federal de Goiás
+66615,Universidade Federal do Estado do Rio de Janeiro
+66617,HUPE
 66618,Universidade Federal do Ceará
 66619,Universidade Federal do Ceará
+66620,Faculdade Multivix
+66622,HUPE
 66624,Universidade Federal do Ceará
+66626,Universidade Federal do Estado do Rio de Janeiro
+66628,Universidade Federal de Goiás
 66631,Universidade Federal do Ceará
 66632,Universidade Federal do Ceará
 66633,Universidade Federal do Ceará
+66634,Universidade do Estado do Pará
+66636,Prontorim Ltda.
 66638,Universidade Federal do Ceará
+66640,Universidade de São Paulo / Faculdade de Medicina de Ribeirão Preto / Hospital das Clínicas
 66641,Universidade Federal do Ceará
+66645,BIORIM
+66646,Universidade Federal de São João del-Rei
+66648,"CHTMAD, Vila Real"
+66650,Prontorim Ltda.
+66651,Universidade Federal de Goiás / Hospital das Clínicas
+66652,Pontifícia Universidade Católica do Paraná
+66654,Clínica de Diálise do Cabo
+66655,Universidade Federal do Espirito Santo
+66659,Clínica do Rim
+66660,Universidade Federal de Goiás / Hospital das Clínicas
+66663,Universidade Federal de Juiz de Fora
+66664,Hospital Ana Nery
+66665,Universidade de Fortaleza
 66666,Universidade Federal do Ceará
+66667,Hospital Santa Marcelina
+66669,Hospital Federal de Bonsucesso
 66671,Universidade Federal do Ceará
+66672,Hospital Ana Nery
+66673,Universidade Federal de São João del-Rei
 66674,Universidade Federal do Ceará
+66675,Universidade Federal de Juiz de Fora
+66676,UNICHRISTUS
+66678,Universidade Federal de Mato Grosso
 66679,Universidade Federal do Ceará
+66680,Universidade Estadual do Rio de Janeiro
 66681,Universidade Federal do Ceará
+66682,Universidade Federal do Rio de Janeiro
 66683,Universidade Federal do Ceará
+66684,Universidade Federal do Ceará
 66685,Universidade Federal do Ceará
+66687,Centro Hospitalar Vila Nova de Gaia / Espinho
+66688,Universidade Estadual do Rio de Janeiro
 66691,Universidade Federal do Ceará
 66693,Universidade Federal do Ceará
 66694,Universidade Federal do Ceará
+66695,Hospital Universitário Pedro Ernesto
 66696,Universidade Federal do Ceará
+66697,Universidade Federal de São João del-Rei / Campus Centro Oeste
+66698,Pontifícia Universidade Católica do Paraná
+66699,Universidade de Brasília / Hospital Universitário de Brasília
 66700,Universidade Federal do Ceará
+66701,Instituto de Biofísica Carlos Chagas Filho
+66702,Hospital São Rafael
+66704,UNICHRISTUS
 66705,Universidade Federal do Ceará
 66706,Universidade Federal do Ceará
 66707,Universidade Federal do Ceará
+66708,Universidade Federal de Juiz de Fora
+66709,Instituto de Nefrologia e Diálise
+66710,Universidade Federal do Rio Grande do Sul
+66711,UNIRIO
+66714,Universidade Federal do Ceará
+66715,Universidade Federal de Juiz de Fora
 66716,Universidade Federal do Ceará
 66717,Universidade Federal do Ceará
 66718,Universidade Federal do Ceará
 66720,Universidade Federal do Ceará
 66721,Universidade Federal do Ceará
 66722,Universidade Federal do Ceará
+66723,Santa Casa de Belo Horizonte
+66724,Universidade Federal de Minas Gerais / Hospital das Clínicas
+66725,Pontifícia Universidade Católica do Rio Grande do Sul
+66726,UNIRIO
+66728,Universidade Federal do Ceará
+66729,UNICHRISTUS
+66731,Universidade Federal de São Paulo
+66733,Universidade Federal de Alagoas
+66736,Universidade Federal do Rio Grande do Sul
+66738,Hospital Federal de Bonsucesso
+66739,Hospital Beneficência Portuguesa de São Paulo
+66741,Santa Casa de Belo Horizonte
+66745,Hospital Beneficência Portuguesa de São Paulo
+66747,Centro Universitário do Rio Grande do Norte
+66749,Faculdade de Medicina de Campos dos Goytacaze
+66756,Rien Nefrologia Ltda.
+66759,Universidade Federal do Maranhão / Hospital Universitario
 66760,Universidade Federal do Ceará
+66761,Hospital Universitário Walter Cantideo
+66763,Faculdade Pernambucana de Saúde
+66764,Universidade Federal Fluminense
 66765,Universidade Federal do Ceará
+66767,Universidade de Brasília / Hospital Universitário de Brasília
 66769,Universidade Federal do Ceará
+66771,Universidade de Brasília / Faculdade de Ceilândia
+66773,Universidade Federal de Goiás
+66774,Rien Nefrologia Ltda.
+66775,Universidade Federal do Espírito Santo
+66776,Universidade de Uberaba
+66778,Centro Universitário Planalto do Distrito Federal
+66783,Clínica de Diálise do Cabo
+66785,Universidade Federal do Rio de Janeiro
+66786,Universidade Federal de Mato Grosso
+66788,Universidade Federal do Rio de Janeiro
+66791,Pontifícia Universidade Católica do Rio Grande do Sul / Hospital São Lucas
+66792,Universidade Federal de São Paulo
+66793,Faculdade Governador Ozanam Coelho
+66796,Universidade Federal do Espírito Santo
+66797,Centro Universitário Planalto do Distrito Federal
 66801,Universidade Federal do Ceará
+66802,Escola Bahiana de Medicina e Saúde Pública
+66804,Hospital Santa Marcelina
+66806,Universidade Federal de São João del-Rei
+66808,Hospital Santa Marcelina
+66810,Universidade Estadual do Pará
+66812,Universidade do Estado do Pará
+66813,Faculdades Pequeno Príncipe
+66814,Universidade Federal de Goiás
+66816,Universidade Federal de Juiz de Fora
+66817,Universidade de Fortaleza
+66819,Universidade Federal de São João del-Rei
+66822,Universidade de Fortaleza
 66823,Universidade Federal do Ceará
+66824,Universidade Federal de Pernambuco
+66826,Clinica Senhor do Bonfim
+66827,Real Hospital Português de Beneficência em Pernambuco
+66829,Santa Casa de Misericórdia de São Paulo
 66830,Universidade Federal do Ceará
+66834,Santa Casa de Belo Horizonte
+66835,Hospital Santa Marcelina
+66836,Universidade Federal de Juiz de Fora
+66837,Real Hospital Português de Beneficência em Pernambuco
+66838,Universidade Federal do Paraná / Complexo Hospital de Clínicas
+66842,Universidade Federal do Paraná
+66843,Escola Bahiana de Medicina e Saúde Pública
+66844,Universidade Federal do Rio de Janeiro
+66847,Universidade Anhembi Morumbi
+66848,Instituto de Nefrologia e Diálise
+66850,Santa Casa de Ribeirao Preto
 66852,Universidade Federal do Ceará
+66853,Universidade Federal do Paraná
+66857,UNICHRISTUS
+66858,Universidade Federal de Juiz de Fora
+66863,Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
+66864,Universidade Federal do Paraná / Complexo Hospital de Clínicas
+66869,Santa Casa de Maringá
+66870,Universidade Estadual Paulista
+66871,Hospital de Base de São José do Rio Preto
+66872,Universidade Federal do Espírito Santo
+66874,Universidade Federal do Rio de Janeiro
+66876,Centro Universitário Serra dos Órgãos
+66877,Universidade Federal da Paraíba
 66878,Universidade Federal do Ceará
 66879,Universidade Federal do Ceará
-66884,Universidade Federal do Ceará
-72627,Universidade Federal do Ceará
-72628,Universidade Federal do Ceará
-66425,Universidade Federal do Ceara (UFC)
-66714,Universidade Federal do Ceará (UFC)
-66684,CAMPUS SOBRAL / Universidade Federal do Ceará
-66728,Campus Sobral / Universidade Federal do Ceará
-66655,Universidade Federal do Espirito Santo
-73027,Universidade Federal do Espirito Santo
-66597,Universidade Federal do Espírito Santo
-66608,Universidade Federal do Espírito Santo
-66775,Universidade Federal do Espírito Santo
-66796,Universidade Federal do Espírito Santo
-66872,Universidade Federal do Espírito Santo
 66883,Universidade Federal do Espírito Santo
-72950,Universidade Federal do Espírito Santo
-73658,Universidade Federal do Espírito Santo
-74143,Universidade Federal do Espírito Santo
-66615,Universidade Federal do Estado do Rio de Janeiro
-66626,Universidade Federal do Estado do Rio de Janeiro
-66863,UNIRIO / Universidade Federal do Estado do Rio de Janeiro
-73267,Universidade Federal do Maranhão
-73642,Universidade Federal do Maranhão
-73654,Universidade Federal do Maranhão
-73162,Universidade Federal do Maranhão Ufma
-73467,Universidade Federal do Marnhão
-73477,Universidade Federal do Marnhão
-72683,Universidade Federal do Oeste do Pará
-73082,Universidade Federal do Parana
-66559,Universidade Federal do Paraná
-66576,Universidade Federal do Paraná
-66842,Universidade Federal do Paraná
-66853,Universidade Federal do Paraná
-70852,Universidade Federal do Paraná
-72610,Universidade Federal do Paraná
-73086,Universidade Federal do Paraná
-74175,Universidade Federal do Paraná
-66838,Complexo Hospital de Clínicas / Universidade Federal do Paraná
-66864,Complexo Hospital de Clínicas / Universidade Federal do Paraná
-66445,UFPR / Universidade Federal do Paraná
-66421,Universidade Federal do Rio de Janeiro
-66491,Universidade Federal do Rio de Janeiro
-66533,Universidade Federal do Rio de Janeiro
-66595,Universidade Federal do Rio de Janeiro
-66682,Universidade Federal do Rio de Janeiro
-66785,Universidade Federal do Rio de Janeiro
-66788,Universidade Federal do Rio de Janeiro
-66844,Universidade Federal do Rio de Janeiro
-72691,Universidade Federal do Rio de Janeiro
-72918,Universidade Federal do Rio de Janeiro
-73074,Universidade Federal do Rio de Janeiro
-73374,Universidade Federal do Rio de Janeiro
-74232,Universidade Federal do Rio de Janeiro
-66222,Universidade Federal do Rio de Janeiro (UFRJ)
-66223,Universidade Federal do Rio de Janeiro (UFRJ)
-66247,Universidade Federal do Rio de Janeiro (UFRJ)
-66874,Universidade Federal do Rio de Janeiro- Ufrj
-66565,Universidade Federal do Rio Grande do Norte
-66566,Universidade Federal do Rio Grande do Norte
+66884,Universidade Federal do Ceará
+66886,Universidade Estadual do Ceará
+66888,Universidade Estadual do Ceará
+66889,Hospital Ana Nery
+66890,Universidade Estadual do Ceará
+66892,Universidade Estadual do Ceará
+66893,Universidade Estadual do Ceará
+66896,Universidade Federal da Paraíba
+67176,Universidade Federal de São Paulo
+68572,Universidade Federal de São Paulo / Escola Paulista de Medicina / Hospital do Rim
+68585,Universidade Federal do Maranhão / Hospital Universitario
+68817,Universidade Federal de São Paulo
+70094,Universidade do Estado do Rio de Janeiro
 70607,Universidade Federal do Rio Grande do Norte
-72939,Universidade Federal do Rio Grande do Norte
-66590,Universidade Federal do Rio Grande do Sul
-66601,Universidade Federal do Rio Grande do Sul
-66710,Universidade Federal do Rio Grande do Sul
-66736,Universidade Federal do Rio Grande do Sul
-72920,Universidade Federal do Rio Grande do Sul
-73000,Universidade Federal do Rio Grande do Sul
-73322,Universidade Federal do Rio Grande do Sul
-72925,Universidade Federal do Tocantins
-74085,Universidade de Uberaba / Universidade Federal do Triângulo Mineiro
-73731,Universidade Federal do Vale do São Francisco
-73869,Universidade Federal do Vale do São Francisco
-66764,Universidade Federal Fluminense
+70660,Centro Universitário Tiradentes
+70852,Universidade Federal do Paraná
+71598,Universidade Estadual de Ciências da Saúde de Alagoas
+71601,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu; Universidade de São Paulo / Faculdade de Medicina
+71602,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu; Universidade de São Paulo / Faculdade de Medicina
+71638,Universidade Federal de São Paulo / Escola Paulista de Medicina
+71672,Centro Universitário das Faculdades Associadas
+71673,Centro Universitário das Faculdades Associadas
+71702,Universidade do Estado do Pará
+71781,Hospital Giovanni Battista
+71890,Universidade José do Rosário Velano
 71920,Universidade Federal Fluminense
+71926,Universidade Federal de Goiás / Hospital das Clínicas
+71964,Santa Casa de Misericórdia de São Paulo
+72013,Universidade José do Rosário Velano
+72028,Universidade Federal de Uberlândia
+72029,Universidade Federal de Uberlândia
+72358,Hospital das Clinicas de Botucatu
+72532,Universidade Tiradentes
+72537,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+72539,Universidade do Estado do Rio de Janeiro
+72540,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+72550,Faculdades Pequeno Príncipe
+72582,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu
 72607,Universidade Federal Fluminense
+72609,Universidade Federal do Rio de Janeiro
+72610,Universidade Federal do Paraná
 72613,Universidade Federal Fluminense
 72614,Universidade Federal Fluminense
+72617,Instituto Bebedouro de Nefrologia
+72620,Instituto Bebedouro de Nefrologia
+72621,RENAL CARE
+72626,Universidade Federal do Paraná
+72627,Universidade Federal do Ceará
+72628,Universidade Federal do Ceará
+72630,Universidade Federal do Rio Grande do Sul / Hospital de Clínicas de Porto Alegre
+72639,IMIP
+72661,Universidade Federal de Roraima
+72662,Universidade Federal de Roraima
+72667,Santa Casa de Belo Horizonte
+72674,Universidade do Estado do Pará
+72675,Universidade Federal do Rio de Janeiro / Hospital Universitário Clementino Fraga Filho
+72676,Universidade do Estado do Pará
+72678,Universidade Federal de São Paulo
+72681,Universidade do Estado do Pará
+72683,Universidade Federal do Oeste do Pará
+72691,Universidade Federal do Rio de Janeiro
+72697,Universidade Federal de São Paulo
+72698,Universidade Federal de São Paulo
+72699,Fundação São Francisco Xavier
+72701,Fundação São Francisco Xavier
+72702,Santa Casa de Misericórdia de Porto Alegre
+72708,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu
+72711,Clínica Renal de Roraima
+72713,Clínica Renal de Roraima
+72720,Faculdade de Medicina de Catanduva-SP
+72726,Universidade Federal de São Paulo
+72727,Associação Renal Vida
+72733,Universidade Federal do Rio Grande do Sul / Hospital de Clínicas de Porto Alegre
+72734,Universidade Federal do Rio Grande do Sul
+72735,Universidade Federal do Rio Grande do Sul
+72736,Universidade Federal de Goiás / Hospital das Clínicas
+72742,Instituto de Medicina Integral Professor Fernando Figueira
+72744,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
 72750,Universidade Federal Fluminense
+72755,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+72766,Hospital do Espírito Santo de Évora E.P.E.
+72768,Profissional Autônomo
+72780,Universidade Federal de São Paulo
+72794,Universidade Federal do Rio de Janeiro
 72819,Universidade Federal Fluminense
+72822,Instituto de Medicina Integral Professor Fernando Figueira
+72823,Universidade Federal do Maranhão / Hospital Universitario
+72830,Renalrio Serviços de Medicina Clínica
+72836,SOS Renal Services
+72881,Universidade Estadual do Pará
 72889,Universidade Federal Fluminense
-73160,Universidade Federal Fluminense
-73170,Universidade Federal Fluminense
-73531,Universidade Federal Fluminense
-73818,Universidade Federal Fluminense
-73860,Universidade Federal Fluminense
-73987,Universidade Federal Fluminense
-74120,Universidade Federal Fluminense
-71890,CAMPUS ALFENAS / Universidade José do Rosário Velano
-72013,UNIFENAS / Universidade José do Rosário Velano
-74225,Universidade Metropolitana de Santos
+72891,SOS Renal Services
+72892,Universidade Federal de Juiz de Fora
+72897,Fresenius Medical Care
+72899,Universidade Federal de São Paulo / Escola Paulista de Medicina / Hospital do Rim
+72902,Santa Casa de Belo Horizonte
+72907,Universidade Federal do Cariri
+72916,Instituto de Medicina Integral Professor Fernando Figueira
+72918,Universidade Federal do Rio de Janeiro
+72920,Universidade Federal do Rio Grande do Sul
+72921,Universidade Federal de São Paulo / Escola Paulista de Medicina / Disciplina de Nefrologia
+72925,Universidade Federal do Tocantins
+72929,Faculdade São Francisco de Barreiras / Hospital Eurico Dutra
+72930,Serviço de Nefrologia do Centro Hospitalar Universitario do Algarve
+72932,RenalVida Assistência Integral ao Renal Ltda.
+72933,RenalVida Assistência Integral ao Renal Ltda.
+72939,Universidade Federal do Rio Grande do Norte
+72941,Universidade Federal de São Paulo
+72947,Hospital Regional da Asa Norte
+72949,HOSPITAL VIDA
+72950,Universidade Federal do Espírito Santo
+72952,Hospital Regional da Asa Norte
+72955,Universidade Estadual Paulista / Faculdade de Medicina de Botucatu
+72956,Hospital Ernesto Dornelles
+72959,Unidade de Tratamento Nefrologico
+72965,Clinica Senhor do Bonfim
+72966,Universidade Federal de Sergipe
+72969,Universidade Federal da Bahia / Campus Anísio Teixeira
+72975,Hospital Sírio Libanês
+72976,Universidade Federal da Bahia
+72977,PREVENT SENIOR
+72978,PREVENT SENIOR
+72979,Universidade Federal da Bahia / Instituto Multidisciplinar em Saúde
+72980,Universidade Estadual do Ceará
+72987,Hospital Ernesto Dornelles
+72988,Universidade de Brasília
+72992,Universidade Federal do Rio de Janeiro
+72996,Hospital Moinhos de Vento
+73000,Universidade Federal do Rio Grande do Sul
+73011,Universidade Estadual do Ceará
+73013,Universidade Federal de Juiz de Fora
+73016,Universidade Católica de Brasília
+73018,Santa Casa de Belo Horizonte
+73020,RenalVida Assistência Integral ao Renal Ltda.
+73022,Universidade Federal de Pernambuco
 73023,Universidade Nove de Julho
+73024,Faculdade de Medicina de São Jose do Rio Preto
+73027,Universidade Federal do Espirito Santo
+73030,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas
+73033,Universidade Federal de Juiz de Fora
+73035,Universidade Federal de Juiz de Fora
+73036,Universidade Federal de São Paulo / Escola Paulista de Medicina
+73038,Universidade Federal de São Paulo / Escola Paulista de Medicina
+73041,Hospital Federal de Bonsucesso
+73045,UNIGRANRIO
+73050,Instituto do Rim de Londrina
+73052,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
+73053,Universidade Federal de São Paulo
+73055,Profissional Autônomo
+73056,Universidade Federal do Rio de Janeiro / Hospital Universitário
+73061,Universidade Federal do Rio de Janeiro / Hospital Universitário
+73062,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas
+73070,Hospital de Base do Distrito Federal
+73071,Hospital de Força Aérea do Galeão
+73073,Hospital Israelita Albert Einstein
+73074,Universidade Federal do Rio de Janeiro
+73079,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+73080,Hospital Israelita Albert Einstein
+73082,Universidade Federal do Parana
+73085,Universidade Estadual Paulista Julio de Mesquita Filho
+73086,Universidade Federal do Paraná
+73092,HBDF / DF / SES
+73093,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
+73095,Universidade Federal do Maranhão / Hospital Universitario
+73108,Universidade Federal do Maranhão / Hospital Universitario
+73109,Hospital das Clinicas
+73117,Universidad Federar de Rio de Janeiro
+73122,Universidade Federal de Santa Catarina
+73133,Fresenius Medical Care
+73134,Fresenius Medical Care
+73136,Universidade Estadual do Rio de Janeiro
+73139,Universidade Estadual do Rio de Janeiro
+73146,Monte Tabor-Hospital São Rafael
+73147,Hospital Universitário Pedro Ernesto
+73160,Universidade Federal Fluminense
+73162,Universidade Federal do Maranhão
+73167,Universidade Federal de Viçosa
+73168,Hospital Universitario Evangelico do Paraná
+73170,Universidade Federal Fluminense
+73172,Universidade do Estado do Rio de Janeiro
+73173,Pontifícia Universidade Católica do Paraná
+73178,Universidade Federal de São Paulo
+73204,Hospital de Clínicas de Porto Alegre
+73205,CHLN / Hospital de Santa Maria
+73207,CHLN / Hospital de Santa Maria
+73212,Universidade Federal de Pernambuco / Hospital das Clínicas
+73220,Santa Casa de Misericórdia de Juiz de Fora
+73224,Santa Casa de Misericórdia de Juiz de Fora
+73238,Universidade Federal do Rio de Janeiro / Hospital Universitário Clementino Fraga Filho
+73254,RenalVida Assistência Integral ao Renal Ltda.
+73261,Centro Universitário Tiradentes
+73262,Hospital de Clínicas de Porto Alegre
+73263,Universidade Católica de Brasília
+73265,RENAL VIDA e VAZ LOBO
+73267,Universidade Federal do Maranhão
+73272,UNICHRISTUS
+73285,Pontifícia Universidade Católica de São Paulo / Campus Sorocaba / Faculdade de Ciências Médicas e da Saúde
+73290,UNICHRISTUS
+73292,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+73297,Universidade de São Paulo / Faculdade de Medicina
+73304,Hospital do Servidor Público Estadual de São Paulo
+73313,Universidade Estadual de Campinas
+73316,Universidade Estadual Paulista
+73317,Santa Casa de Misericórdia de Juiz de Fora
+73322,Universidade Federal do Rio Grande do Sul
+73326,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
 73334,Universidade Positivo
-72532,Universidade Tiradentes
-74046,USP
-73808,USP-SP
-74131,Unidade de Tratamento Nefrológico / UTN
-72959,Utn-Unidade de Tratamento Nefrologico
+73336,Hospital Universitário Pedro Ernesto
+73346,Universidade Federal do Rio de Janeiro
+73373,ENEFRO - Nefrologia e Dialise Peritoneal
+73374,Universidade Federal do Rio de Janeiro
+73388,Faculdade de Medicina de Campos dos Goytacaze
+73393,Hospital Santa Marcelina
+73404,HUUFMA
+73419,SAMARIM
+73421,Universidade de Fortaleza
+73422,SAMARIM
+73423,Hospital Moinhos de Vento
+73431,Universidade Federal de São Paulo
+73441,Universidade Federal Fluminense / Hospital Universitário Antônio Pedro
+73442,Clínica de Doenças Renais de Brasília
+73449,Universidade de São Paulo / Faculdade de Medicina de Ribeirão Preto
+73453,Universidade de São Paulo / Faculdade de Medicina de Ribeirão Preto
+73459,Hospital Universitário Professor Edigard Santos
+73462,Fundação Pró Renal Brasil
+73467,Universidade Federal do Marnhão
+73474,Fundação Pró-Rim
+73475,Fundação Pró-Rim
+73477,Universidade Federal do Marnhão
+73478,Fundação Pró-Rim
+73481,Fundação Pró-Rim
+73490,Universidade Federal de São Paulo / Escola Paulista de Medicina
+73494,Universidade Federal de São Paulo / Escola Paulista de Medicina
+73505,Hospital Ophir Loyola
+73513,Hospital Universitario Pedro Ernesto
+73520,Hospital Israelita Albert Einstein
+73523,Hospital Israelita Albert Einstein
+73525,Universidade de São Paulo / Faculdade de Medicina
+73526,Universidade Estadual do Ceará
+73531,Universidade Federal Fluminense
+73532,Universidade de São Paulo
+73536,Hospital Accamargo Cancer Center
+73543,Universidade de São Paulo
+73544,Hospital Universitário Ciências Médicas
+73546,Universidade Estadual do Maranhão
+73548,Hospital Beneficência Portuguesa de São Paulo
+73551,MULTIRIM
+73554,Hospital Beneficência Portuguesa de São Paulo
+73558,Universidade Federal de São Paulo
+73564,Pontifícia Universidade Católica de São Paulo
+73565,FIOCRUZ / Instituto Gonçalo Moniz
+73568,Beneficência Portuguesa de São Paulo
+73572,Beneficência Portuguesa de São Paulo 
+73578,Universidade de São Paulo
+73587,Beneficência Portuguesa de São Paulo
+73590,Secretaria de Estado da Saúde do Amapa
+73591,Universidade do Sul de Santa Catarina
+73596,Beneficência Portuguesa de São Paulo
+73606,Universidade Estadual do Ceará
+73622,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas
+73624,HSPM
+73626,Hospital Accamargo Cancer Center
+73636,Profissional Autônomo
+73639,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+73641,Hospital Márcio Cunha
+73642,Universidade Federal do Maranhão
+73644,Universidade Federal de Sergipe
+73652,Hospital Sírio Libanês
+73654,Universidade Federal do Maranhão
+73658,Universidade Federal do Espírito Santo
+73661,FIOCRUZ / Instituto Gonçalo Moniz
+73662,Universidade Católica de Brasília
+73665,Fundação Universidade Federal do Vale do São Francisco
+73666,Universidade de São Paulo / Faculdade de Medicina
+73670,Fundação Pró Renal Brasil
+73671,Diálise do Hospital Regional de Taubaté
+73672,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
+73675,Universidade Federal de São Paulo
+73677,Secretaria de Estado da Saúde do Amapa
 73682,??
+73683,Instituto do Rim do Paraná
+73685,Universidade Católica de Brasília
+73686,Universidade de São Paulo / Faculdade de Medicina
+73687,Universidade de Vassouras
+73689,Hospital Beneficência Portuguesa de São Paulo
+73690,Universidade Estadual de Campinas / Faculdade de Ciências Médicas
+73691,Universidade de São Paulo / Faculdade de Medicina de Ribeirão Preto / Hospital das Clínicas
+73695,Centro Universitário Serra dos Órgãos
 73698,??
+73699,Hospital Márcio Cunha
+73700,FACID DEVRY
+73705,Universidade de Vassouras
+73708,Universidade de São Paulo / Faculdade de Medicina
+73717,Hospital de Clínicas de Porto Alegre
+73718,Fundação Pró Renal Brasil
+73724,Hospital Geral Roberto Santos
+73727,Diálise do Hospital Regional de Taubaté
+73728,Universidade Cruzeiro do Sul
+73730,Universidade de Fortaleza
+73731,Universidade Federal do Vale do São Francisco
+73733,Universidade Federal de São Paulo
+73737,Universidade de São Paulo
+73739,Hospital Evangélico de Belo Horizonte
+73740,Hospital Israelita Albert Einstein
+73743,Associação Renal Vida
+73744,Fundação Pró-Rim
+73746,Clínica Pronefron Messejana
+73749,Universidade Federal de São Paulo
+73761,Hospital Deraldo Guimarães
+73765,Hospital Evangélico de Belo Horizonte
+73767,Centro Universitário São Lucas
+73770,Associação Beneficente Santa Casa
+73775,Hospital São João de Deus
+73782,Hospital São João de Deus
+73787,Hospital Pequeno Príncipe
+73792,Universidade Católica de Brasília
+73801,Universidade Estadual de Campinas
+73805,Hospital Universitário Ciências Médicas
+73807,Universidade de Fortaleza
+73808,Universidade de São Paulo
+73809,Universidade Federal da Bahia
+73811,Escola Superior de Ciências da Saúde
+73818,Universidade Federal Fluminense
+73828,Universidade Estadual de Campinas
+73834,Fundação Pró-Rim
+73844,Universidade Federal de São Paulo
+73856,Universidade Estadual de Campinas
+73860,Universidade Federal Fluminense
+73869,Universidade Federal do Vale do São Francisco
+73871,Universidade Federal Fluminense / Hospital Universitário Antônio Pedro
+73877,Universidade de São Paulo / Hospital das Clínicas da Faculdade de Medicina
+73879,Faculdade de Medicina de São Jose do Rio Preto
+73882,Universidade Federal de São Paulo / Escola Paulista de Medicina
+73883,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
+73897,Universidade Estadual do Pará
+73901,ENEFRO - Nefrologia e Dialise Peritoneal
+73903,Hospital Universitario Ciências Medicas de Minas Gerais
+73906,Hospital Santa Marcelina
+73908,Faculdade de Medicina de São Jose do Rio Preto
+73909,Hospital Vera Cruz
+73913,Santa Casa de Belo Horizonte
+73919,Universidade Estadual Paulista
+73926,Hospital Universitario Ciências Medicas de Minas Gerais
+73937,Universidade Federal de Alagoas
+73954,Fundação Pró-Rim
+73960,Hospital das Clinicas de Botucatu
+73962,Universidade Federal de Pernambuco / Hospital das Clínicas
+73963,Instituto do Rim de Londrina
+73964,Faculdade de Medicina de Taubaté
+73979,Universidade Estadual Paulista
+73987,Universidade Federal Fluminense
+73988,Centro Hospitalar Universitario do Algarve
+74006,Hospital Santa Rita
+74007,Fundação Universidade Federal do Vale do São Francisco
+74013,Universidade de Sao Paulo
+74014,Universidade Federal de Alagoas
+74016,Universidade Federal de Juiz de Fora
+74030,Universidade Federal de Alagoas
+74043,Hospital Santa Marcelina
+74046,Universidade de São Paulo
+74049,Universidade Federal de Juiz de Fora
+74050,Hospital Santa Rita
+74055,Fundação Pró Renal Brasil
+74066,Faculdade de Medicina de Taubaté
+74069,Hospital das Clinicas Vitória-ES / HUCAM
+74075,Hospital Federal de Bonsucesso
+74080,Universidade Católica de Brasília
+74082,Universidade Estadual Paulista
+74085,Universidade de Uberaba / Universidade Federal do Triângulo Mineiro
+74088,Hospital das Clinicas Vitória-ES / HUCAM
+74098,Universidade Federal de Alagoas
+74110,Universidade Estadual de Ciências da Saúde de Alagoas
+74120,Universidade Federal Fluminense
+74122,Faculdade de Medicina de Taubaté
+74124,CDR-Botafogo
+74131,Unidade de Tratamento Nefrológico
+74140,Santa Casa de Belo Horizonte
+74142,Universidade Estadual de Londrina / Pontifícia Universidade Católica do Paraná
+74143,Universidade Federal do Espírito Santo
+74150,Faculdade de Medicina de Barbacena
+74158,Faculdade de Medicina de São Jose do Rio Preto
+74160,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
+74171,Hospital Deraldo Guimarães
+74175,Universidade Federal do Paraná
+74179,Universidade Federal de Alagoas
+74188,Hospital São Vicente
+74189,Universidade Federal de Sergipe
+74201,Universidade Federal de Pernambuco / Hospital das Clínicas
+74213,Universidade Federal de Sergipe
+74225,Universidade Metropolitana de Santos
+74232,Universidade Federal do Rio de Janeiro
+74242,Hospital de Clínicas de Porto Alegre
+74245,Universidade Federal de São Paulo
+74250,CLINEFRO Sr. do Bonfim
+74255,Clínica Pronefron Messejana
+74265,Universidade de São Paulo / Faculdade de Medicina / Hospital das Clinicas / Instituto da Criança
+74281,Hospital Federal de Bonsucesso
+74320,Universidade Federal de Sergipe
+74340,Faculdade de Medicina de São Jose do Rio Preto
+74356,Universidade Federal de Sergipe
+74360,Universidade Federal de Sergipe
+74368,Hospital Santa Marcelina
+74379,Faculdade de Ciências Médicas e da Saúde de Juiz de Fora (SUPREMA)
+74388,Universidade Federal de Pelotas
+74389,Universidade Federal de Pelotas
+74394,Instituto Dante Pazzanese de Cardiologia / Hospital do Coracao
+76560,Hospital Santa Casa de Belo Horizonte
+76566,Hospital Santa Casa de Belo Horizonte
