@@ -1,0 +1,39 @@
+sigla_seq,tema_seq,sigla,tema,tema_id
+1.1,1,AO,Diálise,1
+1.1,2,AO,Doença Mineral e Óssea,2
+1.1,3,AO,Doença Renal Crônica,3
+1.1,4,AO,Doenças Glomerulares,4
+1.1,5,AO,Fisiologia e Nefrologia Experimental,5
+1.1,6,AO,Hipertensão Arterial,6
+1.1,7,AO,Insuficiência Renal Aguda,7
+1.1,8,AO,Nefrologia Pediátrica,8
+1.1,9,AO,Transplante,9
+1.2,1,JP,Diálise,10
+1.2,2,JP,Doença Mineral e Óssea,11
+1.2,3,JP,Insuficiência Renal Aguda,12
+1.2,4,JP,Transplante,13
+1.3,1,PC,Diálise,14
+1.3,2,PC,Doença Mineral e Óssea,15
+1.3,3,PC,Doença Renal Crônica,16
+1.3,4,PC,Doenças Glomerulares,17
+1.3,5,PC,Fisiologia e Nefrologia Experimental,18
+1.3,6,PC,Hipertensão Arterial,19
+1.3,7,PC,Insuficiência Renal Aguda,20
+1.3,8,PC,Nefrologia Pediátrica,21
+1.3,9,PC,Transplante,22
+1.3,10,PC,Outras áreas,23
+1.4,1,PE,Diálise,24
+1.4,2,PE,Distúrbios Hidroeletrolíticos,25
+1.4,3,PE,Doença Mineral e Óssea,26
+1.4,4,PE,Doença Renal Crônica,27
+1.4,5,PE,Doenças Glomerulares,28
+1.4,6,PE,Fisiologia e Nefrologia Experimental,29
+1.4,7,PE,Hipertensão Arterial,30
+1.4,8,PE,Insuficiência Renal Aguda,31
+1.4,9,PE,Nefrolitíase,32
+1.4,10,PE,Nefrologia Pediátrica,33
+1.4,11,PE,Nutrição,34
+1.4,12,PE,Transplante,35
+1.4,13,PE,Outras áreas,36
+2.1,1,PCE,Pôster Comentado,37
+2.2,1,PEE,Pôster Eletrônico,38
